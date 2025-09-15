@@ -1,19 +1,21 @@
-# Calculator
+# Calculator App
 
-A new Flutter project created with FlutLab - https://flutlab.io
+A Flutter app that provides a simple and functional calculator for basic arithmetic operations with a clean and responsive UI.
 
-## Getting Started
+## Features
+- Basic arithmetic operations: addition, subtraction, multiplication, division
+- Clear and simple user interface
+- Fast and responsive performance
+- Works on both Android and iOS devices
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter & Dart
+- Stateful widgets for UI management
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+##Screenshot
+https://github.com/hariharanmaran/Calculator/blob/main/Screenshots/Output.png?raw=true
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## Installation
+1. **Clone the repository**
+```bash
+git clone https://github.com/hariharanmaran/calculator-app.git
